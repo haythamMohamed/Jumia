@@ -1,4 +1,4 @@
-# Recruitment Application
+# Jumia Test Application
 
 ## Built With
 
